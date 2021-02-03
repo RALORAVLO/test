@@ -11,6 +11,8 @@ namespace MyApp
         public New2(Action<NewClass> action)
         {
             this._newClass = action;
+
+
         }
 
        
