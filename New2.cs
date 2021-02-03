@@ -10,7 +10,7 @@ namespace MyApp
 
         public New2(Action<NewClass> action)
         {
-            this._newClass = action;
+     
 
 
 
@@ -19,12 +19,11 @@ namespace MyApp
 
 
 
-<<<<<<< HEAD
-=======
 
 
 
->>>>>>> 8343c602ade7add7f3e146a04618feec189cc104
+
+
         }
 
        
