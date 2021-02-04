@@ -6,16 +6,6 @@ namespace MyApp
 {
     class New2
     {
-        private readonly Action<NewClass> _newClass; //options
-
-        public New2(Action<NewClass> action)
-        {
-     
-
-        }
-
-       
-
 
 
     }
