@@ -4,9 +4,5 @@ using System.Text;
 
 namespace MyApp
 {
-    class New2
-    {
-
-
-    }
+  
 }
